@@ -13,11 +13,18 @@
 </p>
 
 ---
+---
+
+## 📌 Status
+
+> ⚠️ **Code is currently being prepared for public release.**
+> It will be made publicly available upon paper acceptance / after the review process.
+
+---
 
 ## 📌 News
 
 - **[2026.04]** Paper submitted to *DISPLAYS* for review.
-- **[2026.04]** Code and pretrained models released.
 
 ---
 
