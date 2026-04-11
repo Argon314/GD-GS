@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: software
+title: "GD-GS: Geometry-Guided and Depth-Adaptive 3D Gaussian Splatting"
+version: 1.0.0
+date-released: 2026-04-11
+authors:
+  - family-names: Chen
+    given-names: Wentao
+  - family-names: Zou
+    given-names: Yaqi
+  - family-names: Chen
+    given-names: Bin
+  - family-names: Jin
+    given-names: Yan
+  - family-names: Liu
+    given-names: Jichao
+  - family-names: Li
+    given-names: Hui
+license: MIT
+repository-code: https://github.com/Argon314/GD-GS
