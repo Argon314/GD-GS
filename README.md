@@ -67,12 +67,15 @@
 
 ## Visual Comparisons
 
+## Visual Comparisons
+
 <p align="center">
-  <img src="assets/comparisons.gif" alt="Visual Comparisons" width="90%"/>
+  <img src="assets/comparisons.png" alt="Visual Comparisons" width="90%"/>
   <br>
-  <em>Qualitative comparisons on LLFF (top), Mip-NeRF360 (middle), and DTU (bottom) datasets.
+  <em>Qualitative comparisons on LLFF datasets.
   GD-GS eliminates floating artifacts and preserves distant background geometry.</em>
 </p>
+
 
 ---
 
