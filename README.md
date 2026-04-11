@@ -5,9 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://arxiv.org/abs/XXXX.XXXXX">
-    <img src="https://img.shields.io/badge/arXiv-XXXX.XXXXX-red?style=flat-square"/>
-  </a>
   <img src="https://img.shields.io/badge/License-Apache%202.0-blue?style=flat-square"/>
   <img src="https://img.shields.io/badge/Python-3.8%2B-green?style=flat-square"/>
 </p>
