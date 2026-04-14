@@ -4,7 +4,7 @@ setup(
     name="evags",
     version="1.0.0",
     author="Wentao Chen et al.",
-    description="Eliminating Visual Artifacts in 3D Gaussian Splatting for High-Fidelity Novel View Displays",
+    description="EVA-GS",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
     url="https://github.com/Argon314/EVA-GS",
