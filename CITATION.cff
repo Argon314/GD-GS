@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this work, please cite it as below."
 type: software
-title: "Eliminating Visual Artifacts in 3D Gaussian Splatting for High-Fidelity Novel View Displays"
+title: "EVA-GS"
 version: 1.0.0
 date-released: 2026-04-11
 authors:
