@@ -40,7 +40,7 @@
   <img src="assets/comparisons.png" alt="Visual Comparisons" width="90%"/>
   <br>
   <em>Qualitative comparisons on LLFF datasets.
-  GD-GS eliminates floating artifacts and preserves distant background geometry.</em>
+  Our method eliminates floating artifacts and preserves distant background geometry.</em>
 </p>
 
 
@@ -60,12 +60,12 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/Argon314/GD-GS.git
-cd GD-GS
+git clone https://github.com/Argon314/EVA-GS.git
+cd EVA-GS
 
 # Create conda environment
-conda create -n gdgs python=3.9
-conda activate gdgs
+conda create -n evags python=3.9
+conda activate evags
 
 # Install PyTorch
 pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118
