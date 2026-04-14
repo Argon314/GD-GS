@@ -1,4 +1,4 @@
-# GD-GS: Geometry-Guided and Depth-Adaptive 3D Gaussian Splatting for Sparse View Synthesis
+# Eliminating Visual Artifacts in 3D Gaussian Splatting for High-Fidelity Novel View Displays
 
 <p align="center">
   <img src="assets/teaser.png" alt="GD-GS Teaser" width="90%"/>
@@ -30,7 +30,7 @@
 <p align="center">
   <img src="assets/pipeline.png" alt="Pipeline" width="85%"/>
   <br>
-  <em>Figure: Overview of the proposed GD-GS dual-branch optimization framework.</em>
+  <em>Figure: Overview of the proposed dual-branch optimization framework.</em>
 </p>
 
 ---
