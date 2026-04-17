@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this work, please cite it as below."
 type: software
-title: "EVA-GS"
+title: "GD-GS"
 version: 1.0.0
 date-released: 2026-04-11
 authors:
@@ -18,4 +18,4 @@ authors:
   - family-names: Li
     given-names: Hui
 license: MIT
-repository-code: https://github.com/Argon314/EVA-GS
+repository-code: https://github.com/Argon314/GS-GS
