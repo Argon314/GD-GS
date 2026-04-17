@@ -21,7 +21,7 @@
 
 ## 📌 News
 
-- **[2026.04]** Paper submitted to *Virtual Reality* for review.
+- **[2026.04]** Paper submitted to *IEEE Transactions on Computational Imaging* for review.
 
 ---
 
