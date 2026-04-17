@@ -4,10 +4,10 @@ setup(
     name="evags",
     version="1.0.0",
     author="Wentao Chen et al.",
-    description="EVA-GS",
+    description="GD-GS",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/Argon314/EVA-GS",
+    url="https://github.com/Argon314/GD-GS",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
